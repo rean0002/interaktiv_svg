@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Untitled Document</title>
+  <script type="text/javascript" src="interactiveSvgFredag.js"></script>
+  <style>
+#info{
+  position:absolute;
+  top:0;
+  right: 0;
+  background: #FFFFFFC0;
+  width: 200px;
+  height: 150px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  visibility: hidden;
+}
+.vis{
+  opacity: 0;
+  transform: translateY(-20px);
+  animation: fadein 2s ease-out forwards;
+}
+@keyframes fadein {
+  to{
+    opacity: 1;
+    transform: translateY(0px);
+  }
+  
+}
+
+  </style>
+</head>
+
+<body>
+    
+    <div id="map"></div>
+    <article id="info">
+      <p></p>
+    </article>
+  
+</body>
+
+</html>

@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Untitled Document</title>
+  <script type="text/javascript" src="interactiveJson25.js"></script>
+  <style>
+    *{
+        box-sizing: border-box;
+    }
+    img{
+        max-width: 100%;
+    }
+    article{
+        width: 25vw;
+    }
+circle:hover {
+    cursor:pointer;
+    fill:orangered;
+}
+#container{
+    display: grid;
+}
+#map{
+    grid-area: 1/1;
+}
+#info{
+    visibility: hidden;
+    grid-area: 1/1;
+    place-self: center;
+    background:#fff;
+    padding: 10px;
+    border:1px solid #333;
+}
+    </style>
+ 
+</head>
+
+<body>
+   <section id="container">
+    <div id="map"></div>
+    <article id="info">
+        <p></p>
+        <img src="" alt="">
+    </article>
+</section>
+  
+</body>
+
+</html>
