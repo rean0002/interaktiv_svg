@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Lag_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 1536 1024">
+  <!-- Generator: Adobe Illustrator 29.8.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 2)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #c8d4d3;
+      }
+
+      .st1 {
+        fill: #4e9b59;
+      }
+
+      .st2 {
+        stroke: #c4bbae;
+        stroke-linecap: round;
+        stroke-width: 3px;
+      }
+
+      .st2, .st3 {
+        fill: none;
+      }
+
+      .st4 {
+        fill: #ed64dd;
+      }
+
+      .st5 {
+        fill: #f5e6c8;
+      }
+
+      .st6 {
+        fill: #7ac35a;
+      }
+
+      .st7 {
+        fill: #1f6aae;
+      }
+
+      .st8 {
+        fill: #ebcb8e;
+      }
+
+      .st9 {
+        fill: #fffdf7;
+      }
+
+      .st10 {
+        fill: #4eb359;
+      }
+
+      .st11 {
+        fill: #ddd2c0;
+      }
+
+      .st12 {
+        fill: #f39c3d;
+      }
+
+      .st13, .st14, .st15 {
+        stroke: #998a8a;
+      }
+
+      .st13, .st15 {
+        fill: #998a8a;
+        stroke-width: .2px;
+      }
+
+      .st16, .st17, .st18, .st19, .st20 {
+        isolation: isolate;
+      }
+
+      .st21 {
+        fill: #ffe9ca;
+      }
+
+      .st22 {
+        fill: #ecefe4;
+      }
+
+      .st23 {
+        fill: #c94b28;
+      }
+
+      .st24, .st14 {
+        fill: #fff;
+      }
+
+      .st17 {
+        letter-spacing: 0em;
+      }
+
+      .st17, .st18, .st19, .st20 {
+        font-family: Arial-BoldMT, Arial;
+        font-size: 21px;
+        font-weight: 700;
+      }
+
+      .st18 {
+        letter-spacing: 0em;
+      }
+
+      .st25 {
+        fill: #2a6f4c;
+      }
+
+      .st26 {
+        fill: #2f703b;
+      }
+
+      .st27 {
+        fill: #d45a3a;
+      }
+
+      .st19 {
+        letter-spacing: 0em;
+      }
+
+      .st14 {
+        stroke-width: .5px;
+      }
+
+      .st28 {
+        fill: #ffedcc;
+      }
+
+      .st3 {
+        stroke: #fff;
+        stroke-width: 1.4px;
+      }
+
+      .st29 {
+        fill: #c96a2e;
+      }
+
+      .st15 {
+        stroke-miterlimit: 10;
+      }
+
+      .st30 {
+        fill: #2f8e5a;
+      }
+
+      .st31 {
+        fill: #ba44c6;
+      }
+
+      .st32 {
+        fill: #564e4e;
+      }
+
+      .st33 {
+        fill: #e0b468;
+      }
+    </style>
+  </defs>
+  <g id="baggrund">
+    <image class="st16" width="1536" height="1024" transform="translate(-89.7 -142.4) scale(1.2 1.2)" xlink:href="ChatGPT Image 12. sep. 2025, 09.45.58.png"/>
+  </g>
+  <g id="punkter">
+    <g id="punkt5">
+      <circle class="st7" cx="624.6" cy="663.9" r="59.6"/>
+      <g>
+        <rect class="st5" x="599.4" y="665" width="50.5" height="34.4"/>
+        <polygon class="st27" points="624.6 642.1 593.7 665 655.6 665 624.6 642.1"/>
+        <path class="st23" d="M618.9,676.5c0-3.2,2.6-5.7,5.7-5.7s5.7,2.6,5.7,5.7v22.9h-11.5v-22.9h0Z"/>
+        <rect class="st24" x="606.3" y="670.8" width="8" height="8"/>
+        <rect class="st24" x="634.9" y="670.8" width="8" height="8"/>
+        <g>
+          <rect class="st5" x="618.9" y="642.1" width="11.5" height="11.5"/>
+          <polygon class="st27" points="624.6 630.7 613.1 642.1 636.1 642.1 624.6 630.7"/>
+          <rect class="st24" x="621.7" y="645" width="5.7" height="5.7"/>
+          <rect class="st3" x="622.7" y="626.6" width="3.7" height="0"/>
+          <rect class="st3" x="624.6" y="625.1" width="0" height="5.5"/>
+        </g>
+      </g>
+    </g>
+    <g id="punkt4">
+      <ellipse class="st4" cx="695.6" cy="863.7" rx="62.1" ry="61.4"/>
+      <g>
+        <path class="st31" d="M656.3,832.6h37.1c2,0,3.7,1.6,3.7,3.7v54.9c0,2-1.7,3.7-3.7,3.7h-37.1v-62.3h0Z"/>
+        <path class="st31" d="M698,832.6h37.1v62.3h-37.1c-2,0-3.7-1.6-3.7-3.7v-54.9c0-2,1.7-3.7,3.7-3.7h0Z"/>
+        <path class="st9" d="M660.9,837.2h30.1c1.5,0,2.8,1.2,2.8,2.8v47.6c0,1.5-1.2,2.8-2.8,2.8h-30.1c-1.5,0-2.8-1.2-2.8-2.8v-47.6c0-1.5,1.2-2.8,2.8-2.8Z"/>
+        <path class="st9" d="M700.7,837.2h30.1c1.5,0,2.8,1.2,2.8,2.8v47.6c0,1.5-1.2,2.8-2.8,2.8h-30.1c-1.5,0-2.8-1.2-2.8-2.8v-47.6c0-1.5,1.2-2.8,2.8-2.8Z"/>
+        <rect class="st11" x="695.2" y="836.2" width="1.8" height="54.9"/>
+        <g>
+          <line class="st2" x1="663.7" y1="844" x2="686.8" y2="844"/>
+          <line class="st2" x1="663.7" y1="849.5" x2="689.2" y2="849.5"/>
+          <line class="st2" x1="663.7" y1="855" x2="684.5" y2="855"/>
+          <line class="st2" x1="663.7" y1="860.5" x2="688" y2="860.5"/>
+        </g>
+        <g>
+          <line class="st2" x1="702.6" y1="844" x2="725.7" y2="844"/>
+          <line class="st2" x1="702.6" y1="849.5" x2="728.1" y2="849.5"/>
+          <line class="st2" x1="702.6" y1="855" x2="723.4" y2="855"/>
+          <line class="st2" x1="702.6" y1="860.5" x2="726.9" y2="860.5"/>
+        </g>
+      </g>
+    </g>
+    <g id="punkt3">
+      <circle class="st6" cx="431" cy="570.3" r="58.3"/>
+      <g>
+        <ellipse class="st26" cx="429.7" cy="597.3" rx="50.5" ry="8.4"/>
+        <circle class="st1" cx="419" cy="554.6" r="19.6"/>
+        <circle class="st26" cx="404.4" cy="571.5" r="16.8"/>
+        <rect class="st26" x="412.3" y="571.5" width="6.7" height="25.2" rx="2.3" ry="2.3"/>
+        <g>
+          <rect class="st0" x="449" y="586.8" width="16.3" height="16.7" rx="3.5" ry="3.5"/>
+          <rect class="st32" x="456.3" y="579" width="1.7" height="8.5"/>
+          <rect class="st32" x="453.5" y="581.8" width="7.3" height="1.7"/>
+        </g>
+        <circle class="st10" cx="426.5" cy="574.6" r="12.1"/>
+      </g>
+    </g>
+    <g id="punkt2">
+      <circle class="st30" cx="743.6" cy="512" r="59.1"/>
+      <g>
+        <polygon class="st25" points="743.6 475.7 696.2 492.4 790.9 492.4 743.6 475.7"/>
+        <rect class="st8" x="701.2" y="492.4" width="84.8" height="4.4" rx="1.9" ry="1.9"/>
+        <g>
+          <rect class="st28" x="703.5" y="496.9" width="6.7" height="35" rx="2.9" ry="2.9"/>
+          <rect class="st28" x="715.2" y="496.9" width="6.7" height="35" rx="2.9" ry="2.9"/>
+          <rect class="st28" x="727.4" y="496.9" width="6.7" height="35" rx="2.9" ry="2.9"/>
+          <rect class="st28" x="740.2" y="496.9" width="6.7" height="35" rx="2.9" ry="2.9"/>
+          <g>
+            <rect class="st28" x="752.6" y="496.9" width="6.7" height="35" rx="2.9" ry="2.9"/>
+            <rect class="st28" x="764.8" y="496.9" width="6.7" height="35" rx="2.9" ry="2.9"/>
+            <rect class="st28" x="776.9" y="496.9" width="6.7" height="35" rx="2.9" ry="2.9"/>
+          </g>
+        </g>
+        <rect class="st8" x="699.2" y="531.9" width="88.8" height="4.9" rx="2.1" ry="2.1"/>
+        <rect class="st33" x="696.2" y="536.8" width="94.7" height="6.4" rx="2.8" ry="2.8"/>
+      </g>
+    </g>
+    <g id="punkt1">
+      <circle class="st12" cx="873.6" cy="678.8" r="59.7"/>
+      <g>
+        <polygon class="st29" points="873.6 650.1 827.7 677.7 919.5 677.7 873.6 650.1"/>
+        <rect class="st21" x="836.8" y="677.7" width="73.4" height="45.9" rx="4" ry="4"/>
+        <rect class="st29" x="850.6" y="689.2" width="16.1" height="34.4" rx="2" ry="2"/>
+        <rect class="st14" x="880" y="690" width="20" height="17.7"/>
+        <rect class="st15" x="890" y="690" width=".2" height="17.7"/>
+        <rect class="st13" x="880" y="699" width="19.9" height=".2"/>
+      </g>
+    </g>
+  </g>
+  <g id="info">
+    <g id="info1">
+      <path class="st22" d="M1112.9,192.9h265.7c17.3,0,31.3,14,31.3,31.3v132.5c0,17.3-14,31.3-31.3,31.3h-265.7c-17.3,0-31.3-14-31.3-31.3v-132.5c0-17.3,14-31.3,31.3-31.3Z"/>
+      <g class="st16">
+        <text class="st20" transform="translate(1103.7 256.5)"><tspan x="0" y="0">S</tspan></text>
+        <text class="st20" transform="translate(1117.1 256.5)"><tspan x="0" y="0">ø</tspan></text>
+        <text class="st20" transform="translate(1129.3 256.5)"><tspan x="0" y="0">r</tspan></text>
+        <text class="st20" transform="translate(1137.4 256.5)"><tspan x="0" y="0">e</tspan></text>
+        <text class="st20" transform="translate(1149.1 256.5)"><tspan x="0" y="0">n </tspan></text>
+        <text class="st19" transform="translate(1166.6 256.5)"><tspan x="0" y="0">K</tspan></text>
+        <text class="st20" transform="translate(1181.1 256.5)"><tspan x="0" y="0">i</tspan></text>
+        <text class="st20" transform="translate(1186.8 256.5)"><tspan x="0" y="0">e</tspan></text>
+        <text class="st20" transform="translate(1198.5 256.5)"><tspan x="0" y="0">r</tspan></text>
+        <text class="st18" transform="translate(1206.7 256.5)"><tspan x="0" y="0">k</tspan></text>
+        <text class="st20" transform="translate(1218.1 256.5)"><tspan x="0" y="0">e</tspan></text>
+        <text class="st20" transform="translate(1230 256.5)"><tspan x="0" y="0">g</tspan></text>
+        <text class="st20" transform="translate(1242.3 256.5)"><tspan x="0" y="0">a</tspan></text>
+        <text class="st20" transform="translate(1253.9 256.5)"><tspan x="0" y="0">a</tspan></text>
+        <text class="st20" transform="translate(1265.6 256.5)"><tspan x="0" y="0">r</tspan></text>
+        <text class="st20" transform="translate(1273.7 256.5)"><tspan x="0" y="0">d bl</tspan></text>
+        <text class="st20" transform="translate(1309.8 256.5)"><tspan x="0" y="0">e</tspan></text>
+        <text class="st20" transform="translate(1321.5 256.5)"><tspan x="0" y="0">v </tspan></text>
+        <text class="st20" transform="translate(1337.6 256.5)"><tspan x="0" y="0">f</tspan></text>
+        <text class="st20" transform="translate(1344.3 256.5)"><tspan x="0" y="0">ø</tspan></text>
+        <text class="st20" transform="translate(1356.6 256.5)"><tspan x="0" y="0">d</tspan></text>
+        <text class="st20" transform="translate(1369.3 256.5)"><tspan x="0" y="0">t i </tspan></text>
+        <text class="st18" transform="translate(1109.2 287.5)"><tspan x="0" y="0">1</tspan></text>
+        <text class="st20" transform="translate(1117.3 287.5)"><tspan x="0" y="0">8</tspan></text>
+        <text class="st20" transform="translate(1129.5 287.5)"><tspan x="0" y="0">1</tspan></text>
+        <text class="st20" transform="translate(1137.8 287.5)"><tspan x="0" y="0">3 i </tspan></text>
+        <text class="st20" transform="translate(1165.4 287.5)"><tspan x="0" y="0">K</tspan></text>
+        <text class="st20" transform="translate(1179.4 287.5)"><tspan x="0" y="0">ø</tspan></text>
+        <text class="st20" transform="translate(1191.6 287.5)"><tspan x="0" y="0">b</tspan></text>
+        <text class="st20" transform="translate(1204.4 287.5)"><tspan x="0" y="0">e</tspan></text>
+        <text class="st20" transform="translate(1216.1 287.5)"><tspan x="0" y="0">n</tspan></text>
+        <text class="st20" transform="translate(1228.5 287.5)"><tspan x="0" y="0">h</tspan></text>
+        <text class="st18" transform="translate(1240.9 287.5)"><tspan x="0" y="0">a</tspan></text>
+        <text class="st20" transform="translate(1252.4 287.5)"><tspan x="0" y="0">v</tspan></text>
+        <text class="st20" transform="translate(1263.2 287.5)"><tspan x="0" y="0">n</tspan></text>
+        <text class="st20" transform="translate(1275.6 287.5)"><tspan x="0" y="0">, </tspan></text>
+        <text class="st20" transform="translate(1286.3 287.5)"><tspan x="0" y="0">h</tspan></text>
+        <text class="st20" transform="translate(1298.7 287.5)"><tspan x="0" y="0">v</tspan></text>
+        <text class="st20" transform="translate(1309.4 287.5)"><tspan x="0" y="0">or </tspan></text>
+        <text class="st20" transform="translate(1335 287.5)"><tspan x="0" y="0">h</tspan></text>
+        <text class="st20" transform="translate(1347.3 287.5)"><tspan x="0" y="0">a</tspan></text>
+        <text class="st20" transform="translate(1359.1 287.5)"><tspan x="0" y="0">n</tspan></text>
+        <text class="st20" transform="translate(1371.3 287.5)"><tspan x="0" y="0">s </tspan></text>
+        <text class="st20" transform="translate(1129.2 318.5)"><tspan x="0" y="0">b</tspan></text>
+        <text class="st20" transform="translate(1141.8 318.5)"><tspan x="0" y="0">a</tspan></text>
+        <text class="st20" transform="translate(1153.5 318.5)"><tspan x="0" y="0">r</tspan></text>
+        <text class="st20" transform="translate(1161.6 318.5)"><tspan x="0" y="0">ndom p</tspan></text>
+        <text class="st17" transform="translate(1234.8 318.5)"><tspan x="0" y="0">r</tspan></text>
+        <text class="st20" transform="translate(1242.8 318.5)"><tspan x="0" y="0">æ</tspan></text>
+        <text class="st20" transform="translate(1261.3 318.5)"><tspan x="0" y="0">g</tspan></text>
+        <text class="st20" transform="translate(1273.9 318.5)"><tspan x="0" y="0">e</tspan></text>
+        <text class="st20" transform="translate(1285.8 318.5)"><tspan x="0" y="0">d</tspan></text>
+        <text class="st20" transform="translate(1298.4 318.5)"><tspan x="0" y="0">e</tspan></text>
+        <text class="st20" transform="translate(1309.9 318.5)"><tspan x="0" y="0"> </tspan></text>
+        <text class="st20" transform="translate(1315 318.5)"><tspan x="0" y="0">h</tspan></text>
+        <text class="st20" transform="translate(1327.3 318.5)"><tspan x="0" y="0">a</tspan></text>
+        <text class="st20" transform="translate(1339 318.5)"><tspan x="0" y="0">n</tspan></text>
+        <text class="st20" transform="translate(1351.3 318.5)"><tspan x="0" y="0">s </tspan></text>
+        <text class="st20" transform="translate(1178.4 349.5)"><tspan x="0" y="0">s</tspan></text>
+        <text class="st20" transform="translate(1189.3 349.5)"><tspan x="0" y="0">e</tspan></text>
+        <text class="st20" transform="translate(1201 349.5)"><tspan x="0" y="0">n</tspan></text>
+        <text class="st20" transform="translate(1213.5 349.5)"><tspan x="0" y="0">e</tspan></text>
+        <text class="st20" transform="translate(1225.2 349.5)"><tspan x="0" y="0">re</tspan></text>
+        <text class="st20" transform="translate(1244.8 349.5)"><tspan x="0" y="0"> </tspan></text>
+        <text class="st20" transform="translate(1249.9 349.5)"><tspan x="0" y="0">t</tspan></text>
+        <text class="st20" transform="translate(1257.4 349.5)"><tspan x="0" y="0">an</tspan></text>
+        <text class="st18" transform="translate(1281.5 349.5)"><tspan x="0" y="0">k</tspan></text>
+        <text class="st20" transform="translate(1293 349.5)"><tspan x="0" y="0">e</tspan></text>
+        <text class="st20" transform="translate(1304.7 349.5)"><tspan x="0" y="0">r</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
