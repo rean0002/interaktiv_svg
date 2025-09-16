@@ -9,7 +9,100 @@
 </head>
 
 <body>
-    <div id="map"></div>
+    <div class="wrapper">
+        <h1>Kierkegaard i København</h1>
+        <p class="description">Tryk på de markerede punkter for at udforske steder fra Søren Kierkegaards liv.</p>
+        <div id="map" role="region" aria-live="polite" aria-label="Interaktivt kort over Kierkegaards København"></div>
+    </div>
 </body>
 
 </html>
+
+<style>
+    :root {
+        color-scheme: light;
+        font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
+        line-height: 1.5;
+    }
+
+    * {
+        box-sizing: border-box;
+    }
+
+    body {
+        margin: 0;
+        min-height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 1.5rem;
+        background: #f3f4f6;
+        color: #1f2933;
+    }
+
+    .wrapper {
+        width: min(100%, 980px);
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    h1 {
+        margin: 0;
+        font-size: clamp(1.75rem, 2.4vw + 1rem, 2.75rem);
+        text-align: center;
+    }
+
+    .description {
+        margin: 0;
+        font-size: clamp(1rem, 1vw + 0.85rem, 1.2rem);
+        text-align: center;
+        color: #425466;
+    }
+
+    #map {
+        background: #ffffff;
+        border-radius: 1.25rem;
+        padding: 1.25rem;
+        box-shadow: 0 30px 60px rgba(15, 23, 42, 0.12);
+    }
+
+    #map svg {
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+
+    #map svg #points>* {
+        cursor: pointer;
+        transition: transform 200ms ease, fill 200ms ease;
+    }
+
+
+
+    @media (max-width: 720px) {
+        body {
+            padding: 1rem;
+        }
+
+        #map {
+            border-radius: 1rem;
+            padding: 1rem;
+        }
+    }
+
+    @media (max-width: 520px) {
+        body {
+            padding: 0.75rem;
+        }
+
+        .description {
+            font-size: 1rem;
+        }
+
+        #map {
+            padding: 0.75rem;
+            border-radius: 0.85rem;
+        }
+    }
+</style>
