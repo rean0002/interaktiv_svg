@@ -5,43 +5,48 @@ document.addEventListener("DOMContentLoaded", function () {
 async function runProgram() {
   let selected;
   let selectedID;
-  let color;
   let active;
   let activeBox;
 
-  // 1. Load svg map
-  //------------------------------------------------------------------------------------
+  // 1. Load SVG
   let mySvg = await fetch("kierkegaard.svg");
   let svg = await mySvg.text();
   document.querySelector("#map").innerHTML = svg;
 
-  // 2. Find infobokse og skjul dem
-  //------------------------------------------------------------------------------------
+  // 2. Gem originalfarve på hvert punkt
+  const points = document.querySelectorAll("#map #points [id^='punkt']");
+  points.forEach((p) => {
+    const originalFill = p.getAttribute("fill");
+    p.setAttribute("data-original-fill", originalFill);
+  });
+
+  // 3. Skjul infobokse
   const infobokse = [document.querySelector("#map #info-1"), document.querySelector("#map #info-2"), document.querySelector("#map #info-3"), document.querySelector("#map #info-4"), document.querySelector("#map #info-5")];
   infobokse.forEach((box) => (box.style.visibility = "hidden"));
 
-  // 3. Klikhåndtering
-  //------------------------------------------------------------------------------------
+  // 4. Klik-funktion
   document.querySelector("#map #points").addEventListener("click", function (evt) {
     clicked(evt);
   });
 
-  // 4. Klik-funktion med toggle
-  //------------------------------------------------------------------------------------
   function clicked(obj) {
     selected = obj.target;
     selectedID = selected.getAttribute("id");
-    color = selected.getAttribute("fill");
 
-    console.log("Klikket på:", selectedID);
-
-    // Hvis man klikker på det samme punkt igen → skjul infoboks og nulstil
+    // Hvis man klikker på samme punkt → nulstil
     if (active === selected) {
-      selected.setAttribute("fill", "#37934a"); // Skift evt. til din standardfarve
+      const originalFill = selected.getAttribute("data-original-fill");
+      selected.setAttribute("fill", originalFill);
       if (activeBox) activeBox.style.visibility = "hidden";
       active = null;
       activeBox = null;
       return;
+    }
+
+    // Nulstil tidligere valgt punkt
+    if (active) {
+      const oldFill = active.getAttribute("data-original-fill");
+      active.setAttribute("fill", oldFill);
     }
 
     // Skjul tidligere infoboks
@@ -49,12 +54,7 @@ async function runProgram() {
       activeBox.style.visibility = "hidden";
     }
 
-    // Nulstil tidligere valgt punkt
-    if (active) {
-      active.setAttribute("fill", "#000"); // Skift evt. til din standardfarve
-    }
-
-    // Find og vis ny infoboks
+    // Vis ny infoboks
     const index = selectedID.replace("punkt", "info-");
     const box = document.querySelector(`#map #${index}`);
     if (box) {
@@ -62,7 +62,7 @@ async function runProgram() {
       activeBox = box;
     }
 
-    // Marker nyt punkt
+    // Skift farve på det nye valgte punkt
     selected.setAttribute("fill", "#123456");
     active = selected;
   }
